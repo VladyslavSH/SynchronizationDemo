@@ -1,0 +1,6 @@
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\InterlocketDemo\bin\Debug\InterlocketDemo.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\InterlocketDemo\bin\Debug\InterlocketDemo.exe
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\InterlocketDemo\bin\Debug\InterlocketDemo.pdb
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\InterlocketDemo\obj\Debug\InterlocketDemo.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\InterlocketDemo\obj\Debug\InterlocketDemo.exe
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\InterlocketDemo\obj\Debug\InterlocketDemo.pdb

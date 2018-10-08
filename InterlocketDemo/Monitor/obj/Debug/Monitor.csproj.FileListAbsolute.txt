@@ -1,0 +1,6 @@
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\Monitor\bin\Debug\Monitor.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\Monitor\bin\Debug\Monitor.exe
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\Monitor\bin\Debug\Monitor.pdb
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\Monitor\obj\Debug\Monitor.exe
+c:\users\mak\documents\visual studio 2017\Projects\InterlocketDemo\Monitor\obj\Debug\Monitor.pdb
